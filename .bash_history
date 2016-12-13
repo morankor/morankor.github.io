@@ -10,3 +10,9 @@ git push
 git add --all
 git commit -m "testing"
 git push -u origin master
+git add --all
+git commit -m '2nd try'
+git push
+git add --all
+git commit -m '2nd try'
+git push
